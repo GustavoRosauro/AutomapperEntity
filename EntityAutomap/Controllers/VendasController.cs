@@ -13,7 +13,7 @@ namespace EntityAutomap.Controllers
 {
     public class VendasController : Controller
     {
-        Entidades ServiceVendas = new Entidades();
+        IEntidades ServiceVendas = new Entidades();
         // GET: Vendas
         public ActionResult Create()
         {

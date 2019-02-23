@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary1
 {
-    interface IEntidades
+    public interface IEntidades
     {
         void Create(ProdutoViewDto produto);
         List<ProdutoDto> Pedido();

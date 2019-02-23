@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\bin\Debug\AutoMapper.dll
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\bin\Debug\AutoMapper.pdb
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\bin\Debug\AutoMapper.xml
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\obj\Debug\VendaService.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\obj\Debug\VendaService.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\obj\Debug\VendaService.csproj.CopyComplete
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Acer\source\repos\EntityAutomap\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

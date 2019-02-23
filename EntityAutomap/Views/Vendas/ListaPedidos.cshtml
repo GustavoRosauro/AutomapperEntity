@@ -1,0 +1,45 @@
+﻿@model IEnumerable<EntityAutomap.Data.ViewModels.ListaPedidoViewModel>
+
+@{
+    ViewBag.Title = "ListaPedidos";
+}
+
+<h2>ListaPedidos</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.NumeroPedido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Clinte)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Produto.Descricao)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumeroPedido)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Clinte)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Produto.Descricao)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
